@@ -1,0 +1,13 @@
+{
+    "name": "carlos/back",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Carlos",
+            "email": "carlosmj19@hotmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
